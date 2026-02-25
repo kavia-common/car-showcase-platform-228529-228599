@@ -1,0 +1,4 @@
+{
+    "command": "sudo ./startup.sh && cd db_visualizer && PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/car-showcase-platform-228529-228599/car_brochure_db"
+}
